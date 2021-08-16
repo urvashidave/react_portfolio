@@ -1,0 +1,123 @@
+{
+	"main": {
+		"name": "Urvashi Dave",
+		"occupation": "Full Stack Developer",
+		"description": "I eat, sleep and breathe Code",
+		"image": "profilepic.jpg",
+		"bio": "Hi there! I am Urvashi!. I've been coding for over 6 years now. As a Full Stack developer I've worked both with startups and large corporations to help build & scale their companies.",
+		"contactmessage": "Get in touch with me",
+		"email": "urvashidave123@gmail.com",
+		"phone": "+1 647-823-6059",
+		"address": {
+			"street": "",
+			"city": "Brampton",
+			"state": "Ontario",
+			"zip": "L6P 4A9"
+		},
+		"website": "urvashidave.com",
+		"resumedownload": "https://drive.google.com/file/d/1OVSOfddmOlYKDl59jDU42ZJf5tB_9k9D/view?usp=sharing",
+		"social": [
+			{
+				"name": "facebook",
+				"url": "https://www.facebook.com/urvashidavece0967/",
+				"className": "fa fa-facebook"
+			},
+			{
+				"name": "linkedin",
+				"url": "https://www.linkedin.com/in/urvashi-dave-webdeveloper",
+				"className": "fa fa-linkedin"
+			},
+
+			{
+				"name": "github",
+				"url": "https://github.com/urvashidave",
+				"className": "fa fa-github"
+			}
+		]
+	},
+	"resume": {
+		"skillmessage": "My Programming Language Proficiency",
+		"education": [
+			{
+				"school": "Lambton College",
+				"degree": "Post Graduation, Internet Programming & Database management",
+				"graduated": "2016",
+				"description": "Graduated with Honours"
+			},
+			{
+				"school": "Gujarat Technological University",
+				"degree": "Bachelor's of Computer Science",
+				"graduated": "2012",
+				"description": "Graduated with Distinction"
+			},
+			{
+				"school": "Technical Education Board",
+				"degree": "Diploma of Computer Science",
+				"graduated": "2009",
+				"description": "Graduated with First Class"
+			}
+		],
+		"work": [
+			{
+				"company": "Market Focus Direct",
+				"title": "Full Stack Developer",
+				"years": "Oct 2017 - Present",
+				"description": "Design and implement flyer distribution system for medium and large retailers using web technologies such as PHP, Angular Javascript, React Javascript, HTML, CSS, SQL Server (MsSQL) and Restful API, using UI/UX principles. Create responsive geographical data plotting for targeted marketing analysis using Google Maps API, Here Maps API,D3 API (D3.js) and Highcharts API. Develop analytical insights and PDF reports for effective marketing campaigns using HTML, CSS, Javascript, AJAX, JQuery, JSON and MySQL. Incorporate Search Engine Optimization (SEO) service to improve the visibility of Market-Focus company and it's retailer clients' websites."
+			},
+			{
+				"company": "Netvatise Inc.",
+				"title": "Web Developer",
+				"years": "July 2017 - Oct 2017",
+				"description": "Built responsive mobile-friendly websites for public sector clients using Wordpress and PHP. Maintained in-house websites and high-quality codes using A/B testing and peer code review. Ensured technical feasibility of UI/UX designs using Front-end technologies, provided user support and toubleshooting as L4 support."
+			},
+			{
+				"company": "Synergy IT Solutions Inc.",
+				"title": "Web Developer",
+				"years": "Apr 2017 - Jun 2017",
+				"description": "Develop and maintain application code, web pages and content including graphics, documents and text, for Company website using technologies like Codigniter, Javascript, CSS, MYSQL."
+			},
+			{
+				"company": "Blendtech",
+				"title": "Web,Database Developer",
+				"years": "May 2016 - Jan 2017",
+				"description": "Developed responsive web portal TMS6 (Terminal Management System) using PHP, Linux Scripting, Javascript, and MySql to manage inventory and status of multiple petrochemical facilities. Performed requirement gathering, code development and testing of Web Portal that manages the data and views the data of the gas station terminals. Built scripts in Linux scrpts to retrieve data from the MySQL and generated reports according to client requirements."
+			}
+		],
+		"skills": [
+			{
+				"name": "PHP",
+				"level": "100%"
+			},
+			{
+				"name": "React JS",
+				"level": "85%"
+			},
+			{
+				"name": "Git",
+				"level": "70%"
+			},
+			{
+				"name": "JavaScript",
+				"level": "90%"
+			},
+			{
+				"name": "Web Development",
+				"level": "95%"
+			},
+			{
+				"name": "Database Development",
+				"level": "80%"
+			}
+		]
+	},
+	"portfolio": {
+		"projects": [
+			{
+				"title": "Airbnb Clone (React JS)",
+				"category": "",
+				"image": "",
+				"url": "https://youtu.be/1kGISk5ft2w"
+			}
+		]
+	}
+}
